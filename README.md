@@ -1,1 +1,1 @@
-Launch server: npm install && create .env from .env.example then npm run dev
+Launch client: npm install && npm start
