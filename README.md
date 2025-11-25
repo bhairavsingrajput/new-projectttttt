@@ -1,1 +1,1 @@
-# new-projectttttt
+Launch server: npm install && create .env from .env.example then npm run dev
